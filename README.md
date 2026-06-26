@@ -50,25 +50,16 @@ The complete SQL Data Analysis project, including data cleaning, database creati
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas
-   ```
-
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-4. Run:
-   ```
-   SQL Data Analysis Project.ipynb
-   ```
+1. Download or clone this repository.
+2. Open the project folder.
+3. Install the required Python librariers:
+       - Pandas
+       - Numpy
+       - Matplotlib
+       - Seaborn
+       - Juypter Notebook
+4. Open `SQL Data Analysis Project.ipynb` in Jupyter Notebook.
+5. Run all the notebook cells to execute the SQL queries, analyze the data, and view the results.
 
 ## 📂 Files Included
 - SQL Data Analysis Project.ipynb
